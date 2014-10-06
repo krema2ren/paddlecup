@@ -1,0 +1,3 @@
+Hi ${user.userName}, welcome to PaddleCup!
+
+Your email address is ${user.email}

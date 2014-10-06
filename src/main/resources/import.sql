@@ -1,0 +1,1 @@
+INSERT INTO PROFILE (created_by, created_date, dob, email, first_name, last_modified_by, last_modified_date, last_name, phone_mobile, status, user_hash, user_name, version) VALUES('dennis','2014-10-01 15:00:00.000000','2014-10-01','dennis@jdma.dk','Dennis','PaddleCup','2014-10-01 15:00:00.000000','Nielsen','+45 2948 2539','ACTIVE','password','krema2ren',0);
